@@ -1,0 +1,13 @@
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.exe
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.deps.json
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.runtimeconfig.json
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.runtimeconfig.dev.json
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.dll
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.pdb
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.csprojAssemblyReference.cache
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.AssemblyInfo.cs
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.dll
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.pdb
+D:\Dev\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.genruntimeconfig.cache
